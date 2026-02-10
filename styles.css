@@ -439,9 +439,7 @@ h1 {
   animation: floatBadge 2.6s ease-in-out infinite alternate;
 }
 
-.photo-image img {
-  filter: grayscale(100%);
-}
+
 
 /* Плавное появление карточек */
 @keyframes fadeInUp {
